@@ -45,3 +45,5 @@ This project aims to create a simple banking system to understand object associa
 - Display the list of products and ask the user which product and quantity they want to buy.
 - Users can purchase products multiple times.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
